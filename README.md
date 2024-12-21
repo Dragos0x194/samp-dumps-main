@@ -1,2 +1,2 @@
-# samp-dumps-main
-samp-dumps-main
+# samp-dumps
+samp-dumps
