@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 <div align="center">
   <br>
@@ -27,3 +28,7 @@
 - MNB
 - RAZZER(besically [Stealth Remastered](https://github.com/Stickey21/Stealth-Remastered/))
 - Invictus v1 NAC version
+=======
+# samp-dumps
+samp-dumps
+>>>>>>> 1a1803ab9aba5487565f3537bbf9800ceb6e583a
